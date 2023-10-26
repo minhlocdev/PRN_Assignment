@@ -1,0 +1,17 @@
+D:\PRN221\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.exe
+D:\PRN221\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.deps.json
+D:\PRN221\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.runtimeconfig.json
+D:\PRN221\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.dll
+D:\PRN221\PRNass\PRN assignment\PRN assignment\bin\Debug\net6.0-windows\PRN assignment.pdb
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.AssemblyReference.cache
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN_assignment.Form1.resources
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.GenerateResource.cache
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.AssemblyInfoInputs.cache
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.AssemblyInfo.cs
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.csproj.CoreCompileInputs.cache
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.dll
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\refint\PRN assignment.dll
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.pdb
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\PRN assignment.genruntimeconfig.cache
+D:\PRN221\PRNass\PRN assignment\PRN assignment\obj\Debug\net6.0-windows\ref\PRN assignment.dll

@@ -1,0 +1,14 @@
+D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.deps.json
+D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.dll
+D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.pdb
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.AssemblyReference.cache
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfoInputs.cache
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfo.cs
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.CoreCompileInputs.cache
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.dll
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\refint\data.dll
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.pdb
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\ref\data.dll
+D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.runtimeconfig.json
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.genruntimeconfig.cache
