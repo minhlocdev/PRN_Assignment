@@ -9,6 +9,7 @@ namespace data.Models
     {
         public string UserId { get; set; }
         public string CourseId { get; set; }
+        public bool Status { get; set; }
 
         public virtual Course Course { get; set; }
         public virtual User User { get; set; }

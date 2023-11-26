@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace data
 {
-    internal class TaskRepository
+    public class TaskRepository : RepositoryBase<data.Models.Task>
     {
+       
+        
     }
 }

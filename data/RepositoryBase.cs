@@ -11,12 +11,12 @@ namespace data
 
     public class RepositoryBase<T> where T : class
     {
-        public dbprnContext _context;
+        public databasePrnContext _context;
         public DbSet<T> _dbSet;
 
         public RepositoryBase()
         {
-            _context = new dbprnContext();
+            _context = new databasePrnContext();
             _dbSet = _context.Set<T>();
         }
 

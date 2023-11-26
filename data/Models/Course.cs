@@ -9,14 +9,13 @@ namespace data.Models
     {
         public Course()
         {
-            Questions = new HashSet<Question>();
             UserCourses = new HashSet<UserCourse>();
         }
 
         public string Id { get; set; }
         public string Name { get; set; }
+        public bool Status { get; set; }
 
-        public virtual ICollection<Question> Questions { get; set; }
         public virtual ICollection<UserCourse> UserCourses { get; set; }
     }
 }

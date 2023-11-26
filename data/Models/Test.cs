@@ -14,6 +14,8 @@ namespace data.Models
 
         public string Id { get; set; }
         public DateTime CreateDate { get; set; }
+        public bool Status { get; set; }
+        public int? CorrectAnswer { get; set; }
 
         public virtual ICollection<QuestionTest> QuestionTests { get; set; }
     }

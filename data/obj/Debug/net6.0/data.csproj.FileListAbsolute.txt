@@ -1,4 +1,5 @@
 D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.deps.json
+D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.runtimeconfig.json
 D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.dll
 D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.pdb
 D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.AssemblyReference.cache
@@ -9,6 +10,47 @@ D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.CoreCompileInp
 D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.dll
 D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\refint\data.dll
 D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.pdb
-D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\ref\data.dll
-D:\PRN221\PRNass\PRN assignment\data\bin\Debug\net6.0\data.runtimeconfig.json
 D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\data.genruntimeconfig.cache
+D:\PRN221\PRNass\PRN assignment\data\obj\Debug\net6.0\ref\data.dll
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.deps.json
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.runtimeconfig.json
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.dll
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.pdb
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.AssemblyReference.cache
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfoInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfo.cs
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.CoreCompileInputs.cache
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.dll
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\refint\data.dll
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.pdb
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.genruntimeconfig.cache
+C:\Users\thanh\OneDrive\Máy tính\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\ref\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.deps.json
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\bin\Debug\net6.0\data.pdb
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\refint\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.pdb
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC\PRNass\PRN assignment\data\obj\Debug\net6.0\ref\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\bin\Debug\net6.0\data.deps.json
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\bin\Debug\net6.0\data.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\bin\Debug\net6.0\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\bin\Debug\net6.0\data.pdb
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\refint\data.dll
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.pdb
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\data.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder (2)\PHUC-PRN\PRNass\PRN assignment\data\obj\Debug\net6.0\ref\data.dll

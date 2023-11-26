@@ -10,6 +10,7 @@ namespace data.Models
         public Question()
         {
             QuestionTests = new HashSet<QuestionTest>();
+            QuestionId=Guid.NewGuid().ToString();
         }
 
         public string QuestionId { get; set; }
@@ -22,7 +23,6 @@ namespace data.Models
         public string CorrectAnswer { get; set; }
         public bool Status { get; set; }
 
-        public virtual Course Course { get; set; }
         public virtual ICollection<QuestionTest> QuestionTests { get; set; }
     }
 }
